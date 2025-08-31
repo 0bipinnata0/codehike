@@ -1,5 +1,4 @@
 {
-  "printWidth": 60,
-  "semi": false,
-  "arrowParens": "avoid"
+  "trailingComma": "all",
+  "semi": false
 }
